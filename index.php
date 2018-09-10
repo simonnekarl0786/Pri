@@ -1,4 +1,4 @@
 <?php
-header("Location: http://competent-villani-d65081.netlify.com");
+header("Location: https://mystifying-curie-45eeb3.netlify.com");
 die();
 ?>
