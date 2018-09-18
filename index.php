@@ -1,4 +1,4 @@
 <?php
-header("Location: https://jolly-hopper-ec01ce.netlify.com");
+header("Location: https://www.wichitasdrycleaner.com");
 die();
 ?>
