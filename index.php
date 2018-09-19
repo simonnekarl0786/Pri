@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.wichitasdrycleaner.com");
+header("Location: https://www.google.com/tel:+18332507273");
 die();
 ?>
